@@ -3,6 +3,12 @@ ViaBackwards: 3.0.1
 Geyser: lastSuccessfulBuild
 Yamler: 2.4.0
 BungeeRcon: 2.1
-DiscordSRV: 1.19.1
-DiscordBot: 1.2.2
 Pixelhub: 1.0
+
+# MaSuite
+MaSuiteCore: 2.0.1
+MaSuiteHomes: 2.0.1
+MaSuiteChat: 2.0.0
+MaSuitePortals: 2.0.1
+MaSuiteTeleports: 2.0.0
+MaSuiteWarps: 2.0.2
