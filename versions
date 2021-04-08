@@ -1,9 +1,8 @@
-ViaVersion: 3.2.1
-ViaBackwards: 3.2.0
-Geyser: lastSuccessfulBuild
-Yamler: 2.4.0
+AuthMeBungee: 2.2.0-beta1
 BungeeRcon: 2.1
-Pixelhub: 1.0
+fastlogin.bungee: 1.11-20210407.085137-22
+Geyser: lastSuccessfulBuild
+LuckPerms: 5.1.81
 
 # MaSuite
 MaSuiteCore: 2.0.1
@@ -13,4 +12,8 @@ MaSuitePortals: 2.0.1
 MaSuiteTeleports: 2.0.0
 MaSuiteWarps: 2.0.2
 
-LuckPerms: 5.1.81
+Pixelhub: 1.0
+ViaVersion: 3.2.1
+ViaBackwards: 3.2.0
+Vivecraft_BungeeCord_Extensions: 1.1
+Yamler: 2.4.0
