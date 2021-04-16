@@ -1,3 +1,4 @@
+BungeeCordAuthenticator: 0.0.3
 BungeeRcon: 2.1
 fastlogin.bungee: 1.11-20210407.085137-22
 Geyser: lastSuccessfulBuild
@@ -12,7 +13,6 @@ MaSuiteTeleports: 2.0.0
 MaSuiteWarps: 2.0.2
 
 Pixelhub: 1.0
-SodionAuth: 2.0-117
 ViaVersion: 3.2.1
 ViaBackwards: 3.2.0
 Vivecraft_BungeeCord_Extensions: 1.1
